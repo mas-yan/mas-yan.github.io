@@ -82,7 +82,7 @@ body {
 }
 
 .social-media a:hover {
-    color: #41c4ff;
+    color: #41c4ff !important;
 }
 
 .promo-banner {
